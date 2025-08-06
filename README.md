@@ -13,10 +13,6 @@ This project helps **marketing teams and business stakeholders** monitor perform
 4. [Tech Stack](#tech-stack)
 5. [Dashboard Insights](#dashboard-insights)
 6. [Setup & Usage](#setup--usage)
-7. [Screenshots](#screenshots)
-8. [Future Enhancements](#future-enhancements)
-9. [Contact](#contact)
-
 ---
 
 ## Overview
